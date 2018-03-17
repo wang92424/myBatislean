@@ -16,4 +16,4 @@
 	3 加载代理对象执行sql(sqlsession)
 	4 封装jdbc(simpleExecutor)
 	5 实现Mapper接口
-	6 映射数据库实体 
+	6 映射数据库实体  
